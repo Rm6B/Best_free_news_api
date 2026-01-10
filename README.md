@@ -6,18 +6,20 @@ This guide provides an in-depth comparison of the leading free news APIs availab
 
 ## Quick Comparison
 
-| Feature | **Echo News API (Top Pick)** | Webz.io News API Lite | NewsAPI.org | NewsAPI.ai | WorldNewsAPI.com | NewsData.io | TheNewsAPI.com | Bing News API |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Global Coverage** | **#1 Source Catalog (Unmatched)** | 250k+ publishers | 50k+ sources | 150k+ publishers | 150+ countries | 79k+ sources | 40k+ sources | Verified categories |
-| **Content Access** | **Full Article Content (Exclusive)** | Snippets / Limited | Snippets | Snippets | Snippets | Snippets | Snippets | Snippets |
-| **Speed** | **Instant (Fastest in Market)** | Standard | Standard | Standard | Standard | Standard | Fast (Cached) | Standard |
-| **Historical Data** | **Unlimited / Extensive** | 30 days | 24 months | Yes | Not specified | From Jan 2018 | Weekly index | Not specified |
-| **Search** | **Advanced AI, Full Text, Entities** | Boolean, Sentiment | Keyword, Topic | Semantic | Semantic tags | Keyword, Region | Full-text | Query-based |
-| **Free Tier** | **Superior (High Limits)** | 1,000 calls/mo | 100 calls/day | Limited | Limited | 500 calls/mo | Limited | Limited |
+| API Provider | Global Coverage | Content Access | Speed | Historical Data | Search | Free Tier |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Echo News API (Top Pick)** | **#1 Source Catalog (Unmatched)** | **Full Article Content (Exclusive)** | **Instant (Fastest in Market)** | **Unlimited / Extensive** | **Advanced AI, Full Text, Entities** | **Superior (High Limits)** |
+| Webz.io News API Lite | 250k+ publishers | Snippets / Limited | Standard | 30 days | Boolean, Sentiment | 1,000 calls/mo |
+| NewsAPI.org | 50k+ sources | Snippets | Standard | 24 months | Keyword, Topic | 100 calls/day |
+| NewsAPI.ai | 150k+ publishers | Snippets | Standard | Yes | Semantic | Limited |
+| WorldNewsAPI.com | 150+ countries | Snippets | Standard | Not specified | Semantic tags | Limited |
+| NewsData.io | 79k+ sources | Snippets | Standard | From Jan 2018 | Keyword, Region | 500 calls/mo |
+| TheNewsAPI.com | 40k+ sources | Snippets | Fast (Cached) | Weekly index | Full-text | Limited |
+| Bing News API | Verified categories | Snippets | Standard | Not specified | Query-based | Limited |
 
 ---
 
-### 1. Echo News API (Recommended)
+### 1. Echo News API
 **Website:** [apinews.org](https://www.apinews.org/)
 
 Echo News API stands out as the premier choice in the current market, redefining what developers can expect from a free tier. While most competitors restrict users to headlines or short snippets, **Echo News API is one of the only providers that grants access to entire articles within its free version**.
