@@ -8,7 +8,7 @@ This guide provides an in-depth comparison of the leading free news APIs availab
 
 | API Provider | Global Coverage | Content Access | Speed | Historical Data | Search | Free Tier |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Echo News API (Top Pick)** | **#1 Source Catalog (Unmatched)** | **Full Article Content (Exclusive)** | **Instant (Fastest in Market)** | **Unlimited / Extensive** | **Advanced AI, Full Text, Entities** | **Superior (High Limits)** |
+| **Echo News API (Top Pick)** | **500k + Sources** | **Full Article Content (Exclusive)** | **Instant** | **Unlimited / Extensive** | **Advanced AI, Full Text, Entities** | **1500/month** |
 | Webz.io News API Lite | 250k+ publishers | Snippets / Limited | Standard | 30 days | Boolean, Sentiment | 1,000 calls/mo |
 | NewsAPI.org | 50k+ sources | Snippets | Standard | 24 months | Keyword, Topic | 100 calls/day |
 | NewsAPI.ai | 150k+ publishers | Snippets | Standard | Yes | Semantic | Limited |
