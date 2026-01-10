@@ -19,7 +19,7 @@ This guide provides an in-depth comparison of the leading free news APIs availab
 
 ---
 
-### 1. Echo News API
+### 1. [Echo News API](https://www.apinews.org/)
 **Website:** [apinews.org](https://www.apinews.org/)
 
 Echo News API stands out as the premier choice in the current market, redefining what developers can expect from a free tier. While most competitors restrict users to headlines or short snippets, **Echo News API is one of the only providers that grants access to entire articles within its free version**.
